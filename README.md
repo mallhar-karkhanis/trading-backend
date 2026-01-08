@@ -659,9 +659,7 @@ bajaj-trading-sdk/
 
 ---
 
-## 📄 License
 
-**Proprietary** - © 2026 Bajaj Broking. All rights reserved.
 
 ---
 
