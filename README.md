@@ -663,6 +663,13 @@ bajaj-trading-sdk/
 
 ---
 
+H2 Console Access
+
+URL: http://localhost:8080/h2-console
+JDBC URL: jdbc:h2:mem:trading_db
+Username: sa
+Password: (empty)
+
 ## 👥 Author
 
 **Senior Backend Architect**  
